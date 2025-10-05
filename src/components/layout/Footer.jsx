@@ -37,10 +37,10 @@ export default function Footer() {
         <div>
           <h4 className="text-lg font-semibold mb-4">Follow Me</h4>
           <div className="flex gap-4 text-2xl">
-            <a href="https://github.com/yourgithub" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
+            <a href="https://github.com/kumarkartik001" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
               <FaGithub />
             </a>
-            <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
+            <a href="https://linkedin.com/in/kartik-kumar-kk" target="_blank" rel="noopener noreferrer" className="hover:text-accent transition">
               <FaLinkedin />
             </a>
           </div>
